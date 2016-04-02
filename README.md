@@ -8,7 +8,7 @@ I use it personally to boot up my C++ / Qt App.
 |C++:|![](https://img.shields.io/teamcity/codebetter/bt428.svg)|
 
 # Licence
-This project contains a fork of [bhaisaab/cmakeqt](https://github.com/bhaisaab/cmakeqt) and [cginternals/cmake-init](https://github.com/cginternals/cmake-init), and is open source under MIT Licence.
+This project contains a fork of [euler0/mini-cmake-qt](https://github.com/euler0/mini-cmake-qt) and [cginternals/cmake-init](https://github.com/cginternals/cmake-init), and is open source under MIT Licence.
 
 The MIT License (MIT)
 Copyright (c) 2016 LER0ever
